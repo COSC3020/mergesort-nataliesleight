@@ -1,6 +1,6 @@
 function mergesort(array) {
     var n = array.length;
-    if (n == 0) {
+    if (n == 0 || n ==1) {
         return array;
     }
     var tmpLength = 1;
