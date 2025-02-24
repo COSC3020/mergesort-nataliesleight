@@ -1,8 +1,9 @@
 function mergesort(array) {
-    function mergesort(array) {
     var n = array.length;
     var tmpLength = 1;
-
+    if (n == 0) {
+        return array;
+    }
     while (tmpLength < n) {
         var i = 0;
         while (i < n) {
