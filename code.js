@@ -47,4 +47,3 @@ function merge2(array, L1, R1, L2, R2) {
     return array; 
 }
 
-}
