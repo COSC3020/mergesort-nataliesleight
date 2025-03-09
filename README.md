@@ -16,4 +16,9 @@ its worst-case runtime. Add your answer, including your reasoning, to this
 markdown file.
 
 
-https://www.baeldung.com/cs/non-recursive-merge-sort
+
+Sources:
+
+I received help from Lars Kothoff. I used this link to help me build an iterative merge sort: https://www.baeldung.com/cs/non-recursive-merge-sort
+
+“I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.” - Natalie Sleight
